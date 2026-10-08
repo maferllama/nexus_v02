@@ -85,4 +85,5 @@ La guía completa está en [docs/instalacion.md](docs/instalacion.md).
 
 ## Autores
 
-_Agrega aquí los nombres del equipo._
+Gonzalo Rojas Mones 
+Maria Fernanda Perez Martinez 
