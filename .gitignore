@@ -1,0 +1,12 @@
+# Credenciales locales (se crean a partir de config.example.php)
+config/config.php
+config/config.php.bak-*
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.log
+*.swp
