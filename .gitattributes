@@ -1,0 +1,5 @@
+# Los scripts de shell deben conservar saltos de línea LF (si no, fallan en Linux)
+*.sh  text eol=lf
+*.sql text eol=lf
+*.php text eol=lf
+*.md  text eol=lf
